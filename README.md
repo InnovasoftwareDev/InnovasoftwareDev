@@ -13,6 +13,6 @@ Bases de Datos Relacionales: Nuestra profunda experiencia con PostgreSQL y MySQL
 rendimiento y escalabilidad.
 
 En Innovasoftware, no solo construimos software; forjamos las soluciones digitales del mañana que impulsan tu negocio hoy.
-Contáctanos a support@innovasoftware.org y descubre cómo podemos llevar tu visión a la realidad.
+Contáctanos a contact@innovasoftware.org y descubre cómo podemos llevar tu visión a la realidad.
 
 ¡Innova hoy para transformar tu mañana con Innovasoftware!
